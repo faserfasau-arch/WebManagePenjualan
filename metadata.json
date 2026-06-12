@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Inventaris Toko",
+  "description": "Sistem manajemen inventaris toko dengan laporan penjualan real-time dan notifikasi otomatis stok menipis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
